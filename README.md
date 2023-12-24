@@ -20,4 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha9231&show_icons=true&locale=en" alt="sneha9231" /></p>
 
+[![An image of @sneha9231's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sneha9231)](https://holopin.io/@sneha9231)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha9231&" alt="sneha9231" /></p>
