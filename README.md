@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha9231&label=Profile%20views&color=0e75b6&style=flat" alt="sneha9231" /> </p>
 
-- 🌱 I’m currently learning **tensorflow and opencv**
+- 🌱 I’m currently learning **Tensorflow and Julia**
 
 - ⚡ Fun fact **I'm wanderlust**
 
