@@ -51,7 +51,7 @@ HTML/CSS     ████░░░░░░░░░░░░░░░░░░ 
 Docker       ██░░░░░░░░░░░░░░░░░░░░   08.10%
 ```
 
-## 🎖️ Badges
+## Badges
 [![An image of @sneha9231's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sneha9231)](https://holopin.io/@sneha9231)
 
 ### Tools & Frameworks 
@@ -74,6 +74,3 @@ Docker       ██░░░░░░░░░░░░░░░░░░░░ 
 
   </p>
 </details>
-
-
-![Snake animation](https://github.com/sneha9231/sneha9231/blob/output/github-contribution-grid-snake.svg)
